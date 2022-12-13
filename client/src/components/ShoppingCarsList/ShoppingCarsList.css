@@ -1,0 +1,21 @@
+.shoppingListBody {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 60%;
+}
+
+.image {
+    max-width: 50px;
+}
+
+.shoppingListCar {
+    flex: 33%;
+    padding: 1%;
+    margin-left: 1%;
+    font-size: 13px;
+}
+
+.title {
+    font-size: inherit;
+}
